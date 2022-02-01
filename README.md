@@ -1,9 +1,5 @@
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876410490660741151)
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://discord.com/users/876410490660741151)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876410490660741151)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876410490660741151)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876410490660741151)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876410490660741151)
+Software
+(https://img.shields.io/badge/photoshop-.-555555?style=for-the-badge&logo=adobephotoshop)
 
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flnixn&label=Profile%20views&color=0e75b6&style=flat" alt="flnixn" /> </p>
