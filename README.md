@@ -14,6 +14,5 @@
 [![discord - .](https://img.shields.io/badge/discord-click-555555?style=for-the-badge&logo=discord)](https://discord.com/users/876410490660741151)
 
 ## Stats
-&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flnixn&show_icons=true&theme=dark" alt="flnixn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flnixn&show_icons=true&theme=dark" alt="flnixn" /></p>
