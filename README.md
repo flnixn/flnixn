@@ -2,6 +2,7 @@
 
 &nbsp;
 [![photoshop - .](https://img.shields.io/badge/photoshop-user-555555?style=for-the-badge&logo=adobephotoshop)](https://)
+[![copy - paste](https://img.shields.io/badge/copy-paste-555555?style=for-the-badge&logo=maserati)](https://)
 
 ### System
 &nbsp;
