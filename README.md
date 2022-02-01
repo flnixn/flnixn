@@ -1,3 +1,5 @@
+<p align="center">
+
 ### Skills
 
 &nbsp;
