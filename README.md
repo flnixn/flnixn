@@ -6,7 +6,7 @@
 
 ### System
 &nbsp;
-<p align="center"> [![linux - .](https://img.shields.io/badge/linux-user-555555?style=for-the-badge&logo=linux)](https://)
+<p align="center"> [![linux - .](https://img.shields.io/badge/linux-user-555555?style=for-the-badge&logo=linux)](https://) <p align="center">
 <p align="center"> [![android - .](https://img.shields.io/badge/android-user-555555?style=for-the-badge&logo=android)](https://)
 <p align="center"> [![windows - .](https://img.shields.io/badge/windows-user-555555?style=for-the-badge&logo=windows)](https://)
 
