@@ -6,13 +6,13 @@
 
 ### System
 &nbsp;
-[![linux - .](https://img.shields.io/badge/linux-user-555555?style=for-the-badge&logo=linux)](https://) <p align="center">
+[![linux - .](https://img.shields.io/badge/linux-user-555555?style=for-the-badge&logo=linux)](https://)
 [![android - .](https://img.shields.io/badge/android-user-555555?style=for-the-badge&logo=android)](https://)
 [![windows - .](https://img.shields.io/badge/windows-user-555555?style=for-the-badge&logo=windows)](https://)
 
 ### Contact
 &nbsp;
-<p align="center"> [![discord - .](https://img.shields.io/badge/discord-click-555555?style=for-the-badge&logo=discord)](https://discord.com/users/876410490660741151)
+[![discord - .](https://img.shields.io/badge/discord-click-555555?style=for-the-badge&logo=discord)](https://discord.com/users/876410490660741151)
 
 &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flnixn&show_icons=true&theme=dark" alt="flnixn" /></p>
