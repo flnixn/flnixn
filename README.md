@@ -1,5 +1,3 @@
-<th>top-right</th>
-
 ### Skills
 
 &nbsp;
@@ -19,5 +17,3 @@
 &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flnixn&show_icons=true&theme=dark" alt="flnixn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flnixn&show_icons=true&theme=dark" alt="flnixn" /></p>
-
-<th>top-right</th>
